@@ -1,4 +1,0 @@
-kilo
-====
-
-kilo proj. test 
